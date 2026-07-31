@@ -189,18 +189,6 @@ Por isso, aqui a regra é:
 
 ---
 
-# 👨‍💻 Sobre o desenvolvedor
-
-Sou **Matheus Félix Barbosa**, desenvolvedor e apaixonado por tecnologia, programação, automação e projetos feitos com as próprias mãos.
-
-Minha curiosidade por tecnologia começou muito antes de eu escrever minhas primeiras linhas de código. Começou desmontando brinquedos para descobrir o que havia dentro deles.
-
-Hoje, continuo fazendo praticamente a mesma coisa — só que com computadores, programação, eletrônica, automação e projetos um pouco mais ambiciosos.
-
-O **Porão do DEV** é uma forma de registrar essa evolução e compartilhar o que estou aprendendo pelo caminho.
-
----
-
 # 🌐 Onde me encontrar
 
 🔗 **GitHub:**
