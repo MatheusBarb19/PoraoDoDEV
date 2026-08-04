@@ -1,130 +1,125 @@
 # 🏚️ Porão do DEV
 
-> **Tecnologia, criatividade e projetos que não deveriam funcionar... mas funcionam.**
+<p align="center">
+  <strong>Tecnologia • Sustentabilidade • Criatividade</strong>
+</p>
 
-O **Porão do DEV** é um projeto pessoal criado para documentar minha evolução como desenvolvedor e, principalmente, dar vida a uma coleção de ideias, experimentos e projetos que misturam **programação, automação, hardware, eletrônica, reaproveitamento e muita curiosidade**.
+<p align="center">
+  Um laboratório pessoal para transformar ideias em projetos reais.
+</p>
 
-Mais do que um site, o Porão é um espaço para **construir, testar, errar, aprender e compartilhar**.
+<p align="center">
+  <a href="https://matheusbarb19.github.io/PoraoDoDEV/">
+    <img src="https://img.shields.io/badge/🌐_Visitar_o_Porão_do_DEV-000000?style=for-the-badge" alt="Visitar o Porão do DEV">
+  </a>
+  <a href="https://github.com/MatheusBarb19/PoraoDoDEV">
+    <img src="https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
 
 ---
 
-## 🧠 Como surgiu o Porão do DEV?
+## 🧠 Sobre o projeto
 
-Desde pequeno, sempre tive uma curiosidade difícil de controlar:
+**O Porão do DEV nasceu de uma curiosidade que me acompanha desde criança:**
 
-> **"E se eu abrir isso para descobrir como funciona?"**
+> **“E se eu abrir isso para descobrir como funciona?”**
 
-Quando um brinquedo parava de funcionar, dificilmente ele simplesmente ia para o lixo. Eu desmontava, procurava motores, baterias, fios e outras peças que poderiam ser reaproveitadas.
-
-Eu gostava de descobrir o que havia dentro das coisas e imaginar o que poderia ser feito com aquelas peças.
+Quando um brinquedo parava de funcionar, eu desmontava. Motores, baterias, fios e componentes eram separados e guardados para possíveis experimentos.
 
 Anos depois, a curiosidade continua a mesma.
 
 **Só mudaram as ferramentas.**
 
-Hoje, essa vontade aparece através da programação, automação, eletrônica, hardware, servidores, projetos DIY, reaproveitamento de equipamentos antigos e qualquer outra ideia que pareça interessante o suficiente para ser colocada em prática.
+Hoje, essa vontade de descobrir como as coisas funcionam aparece através da programação, automação, hardware, eletrônica, reaproveitamento tecnológico e desenvolvimento de projetos próprios.
 
-Foi desse espírito que nasceu o **Porão do DEV**.
+O **Porão do DEV** foi criado para reunir tudo isso em um único lugar.
+
+Mais do que um site, ele funciona como um **laboratório pessoal e um registro da minha evolução**, onde projetos são documentados desde a ideia até sua execução.
 
 ---
 
 ## 🔧 O que é o Porão do DEV?
 
-O Porão é um laboratório pessoal onde tecnologia e criatividade se encontram.
+O Porão é um espaço para:
+
+* 💻 Desenvolver projetos de programação;
+* 🐍 Criar automações utilizando Python;
+* 📊 Explorar dados e tecnologia;
+* 🔩 Experimentar com hardware e eletrônica;
+* ♻️ Reaproveitar equipamentos antigos;
+* 🎮 Criar projetos envolvendo retro gaming e emulação;
+* 📡 Explorar IoT e comunicação;
+* ⚡ Experimentar soluções envolvendo energia;
+* 🛠️ Aprender colocando a mão na massa.
 
 Aqui, um computador antigo pode virar um servidor.
 
-Um celular pode virar um console portátil.
+Um celular esquecido pode virar um console.
 
-Um equipamento esquecido pode ganhar uma segunda vida.
+Uma peça aparentemente inútil pode se transformar em matéria-prima para um novo projeto.
 
-E uma ideia aparentemente maluca pode acabar virando um projeto de verdade.
-
-O objetivo é **documentar todo esse processo**, compartilhar o que estou aprendendo e mostrar que não é necessário possuir os equipamentos mais caros para começar a criar.
-
-Às vezes, basta ter:
-
-**uma ideia + algumas ferramentas + curiosidade suficiente para tentar.**
+**A ideia é descobrir o que ainda pode ser criado com aquilo que já temos.**
 
 ---
 
-## 🚀 O que você encontra por aqui?
+# 🚀 Projetos
 
-### 💻 Programação & Automação
+O Porão está em constante evolução.
 
-Projetos envolvendo desenvolvimento, scripts, automações e soluções criadas para facilitar tarefas e resolver problemas do dia a dia.
+Alguns projetos já saíram da bancada, enquanto outros ainda estão esperando sua vez.
 
-### 🔩 Hardware & Eletrônica
+| Projeto                               |         Status        |
+| ------------------------------------- | :-------------------: |
+| 📱 Celular → Console Portátil         |      ✅ Concluído      |
+| 🖥️ HomeLab / Servidor Caseiro        | 🚧 Em desenvolvimento |
+| 🔋 Power Bank com células de notebook |       🔜 Próximo      |
+| 🎮 Retro Gaming com Batocera          |      💡 Planejado     |
+| 📡 Sistema LoRa                       |      💡 Planejado     |
+| ☀️ Mini estação solar                 |      💡 Planejado     |
 
-Experimentos envolvendo computadores, componentes eletrônicos, baterias, reaproveitamento de hardware e projetos feitos com as próprias mãos.
-
-### 🎮 Retro Gaming
-
-Projetos relacionados a emulação, consoles, jogos antigos e reaproveitamento de dispositivos para criar novas experiências.
-
-### ⚡ Energia & DIY
-
-Experimentos com baterias, power banks, energia solar e outras soluções construídas de forma artesanal.
-
-### 📡 IoT & Comunicação
-
-Projetos envolvendo comunicação sem fio, dispositivos conectados, sensores e tecnologias como LoRa.
-
-### 🖥️ Computadores & Servidores
-
-A ideia é descobrir até onde equipamentos antigos ainda podem chegar.
-
-Um computador que aparentemente não serve mais para muita coisa pode ter uma nova função.
+> **A bancada nunca fica vazia.**
 
 ---
 
-# 🛠️ Projetos
+# 🎮 Projeto em destaque
 
-O Porão está em constante construção. Alguns projetos já saíram do papel, enquanto outros estão esperando sua vez na bancada.
+## 📱 Como transformar um celular em um Console Portátil
 
-| Projeto                                                     |         Status        |
-| ----------------------------------------------------------- | :-------------------: |
-| 📱 Transformar um celular em Console Portátil               |      ✅ Concluído      |
-| 🖥️ Servidor utilizando computador antigo                   |   🔨 Próximo projeto  |
-| 🎮 Transformar TV/PC antigo em console retrô com Batocera   |      💡 Planejado     |
-| ☀️ Mini estação solar para carregamento de Power Banks      |      💡 Planejado     |
-| 🔋 Power Bank utilizando células reaproveitadas de notebook |      💡 Planejado     |
-| 📡 Sistema de comunicação utilizando LoRa                   |      💡 Planejado     |
-| 🧪 Novos experimentos e ideias malucas                      | ♾️ Em desenvolvimento |
+O primeiro projeto documentado no Porão do DEV consiste em transformar um smartphone antigo em um **console portátil**, utilizando emulação e reaproveitamento de hardware.
 
-> **A lista provavelmente vai crescer. Bastante.**
+### 🧩 O projeto envolve
 
----
+* 📱 Smartphone antigo;
+* 🎮 Controle físico;
+* 💾 Armazenamento externo;
+* 🕹️ Emulação de consoles;
+* 🔧 Configuração e otimização;
+* ♻️ Reaproveitamento tecnológico.
 
-# 📱 Projeto em destaque
+A proposta é simples:
 
-## Transformando um celular em um Console Portátil
+> **Dar uma nova vida a um equipamento que poderia estar esquecido.**
 
-Um dos primeiros projetos documentados no Porão do DEV foi transformar um smartphone antigo em uma pequena central portátil para jogos.
-
-A ideia envolve **reaproveitamento de hardware, emulação e criatividade**, transformando um dispositivo que poderia estar esquecido em uma nova experiência de entretenimento.
-
-🎮 **PS1**
-🎮 **PSP**
-🎮 **Emulação**
-🎮 **Controle físico**
-♻️ **Reaproveitamento de hardware**
-
-> **Por que deixar um aparelho antigo parado quando ele ainda pode ganhar uma nova vida?**
+📖 **Documentação completa:**
+[🎮 Acessar o projeto no Porão do DEV](https://matheusbarb19.github.io/PoraoDoDEV/Index/Projetos/projeto_console_portatil.html)
 
 ---
 
-# 🧰 Tecnologias utilizadas
+# 🏗️ Tecnologias
 
-O site do Porão do DEV está sendo construído utilizando tecnologias fundamentais da Web:
+O site foi desenvolvido utilizando tecnologias fundamentais do desenvolvimento Web:
 
-* HTML5
-* CSS3
-* Git
-* GitHub
-* GitHub Pages
+### 🌐 Front-end
 
-Conforme o projeto evoluir, novas tecnologias poderão ser incorporadas.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### 🔧 Versionamento & Deploy
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge\&logo=githubpages\&logoColor=white)
 
 ---
 
@@ -133,79 +128,155 @@ Conforme o projeto evoluir, novas tecnologias poderão ser incorporadas.
 ```text
 PoraoDoDEV/
 │
+├── index.html
+├── Sobre.html
+├── Contato.html
+│
 ├── Index/
-│   └── Página principal
+│   └── Projetos/
+│       └── projeto_console_portatil.html
 │
 ├── Estilo/
-│   └── Arquivos de estilização
+│   ├── Home.css
+│   ├── Sobre.css
+│   └── Contato.css
 │
 ├── Images/
-│   └── Imagens e recursos visuais
+│   └── Projetos/
 │
 └── README.md
 ```
 
-A estrutura pode mudar conforme novas funcionalidades e páginas forem adicionadas ao projeto.
+A estrutura poderá ser modificada conforme novas páginas, projetos e funcionalidades forem adicionados.
 
 ---
 
-# 🏗️ Em desenvolvimento
+# 🧪 Filosofia do projeto
 
-O Porão do DEV é um projeto vivo.
+O Porão do DEV não nasceu com a intenção de ser perfeito.
 
-Ainda existem muitas ideias para colocar em prática, desde melhorias no próprio site até novos experimentos envolvendo **programação, hardware, eletrônica, automação, servidores, energia e retro gaming**.
+Ele nasceu com a intenção de **ser construído**.
 
-Algumas ideias vão funcionar de primeira.
+Aqui, faz parte do processo:
 
-Outras provavelmente vão quebrar.
+```text
+IDEIA
+  ↓
+PESQUISA
+  ↓
+CONSTRUÇÃO
+  ↓
+TESTE
+  ↓
+ERRO
+  ↓
+CORREÇÃO
+  ↓
+APRENDIZADO
+  ↓
+PROJETO
+```
 
-Algumas talvez precisem ser refeitas do zero.
+Porque aprender tecnologia não é apenas consumir conteúdo.
 
-E isso faz parte.
-
-**O objetivo não é apenas chegar ao resultado final. É documentar o caminho até ele.**
-
----
-
-# 🎯 Filosofia do projeto
-
-O Porão do DEV nasceu com uma ideia simples:
-
-> **Criatividade não deveria depender de equipamentos caros.**
-
-Um computador antigo pode ensinar muito.
-
-Um celular esquecido pode virar um projeto.
-
-Uma peça aparentemente inútil pode ser reaproveitada.
-
-Um erro pode ensinar mais do que um tutorial.
-
-E uma ideia maluca pode ser exatamente o projeto que você estava procurando.
-
-Por isso, aqui a regra é:
-
-**Desmontar. Experimentar. Construir. Errar. Aprender. Recomeçar.**
+**É construir.**
 
 ---
 
-# 🌐 Onde me encontrar
+# 🛠️ Roadmap
 
-🔗 **GitHub:**
-[github.com/MatheusBarb19](https://github.com/MatheusBarb19)
+### 🌐 Site
 
-🔗 **LinkedIn:**
-[linkedin.com/in/matheus-felix-barbosa-658422227](https://www.linkedin.com/in/matheus-felix-barbosa-658422227)
+* [x] Criar identidade visual
+* [x] Criar página inicial
+* [x] Criar página Sobre
+* [x] Criar página de Contato
+* [x] Criar seção de Projetos
+* [x] Publicar utilizando GitHub Pages
+* [ ] Melhorar responsividade
+* [ ] Adicionar novas funcionalidades
+
+### 🔧 Projetos
+
+* [x] Console Portátil com celular antigo
+* [ ] HomeLab / Servidor Caseiro
+* [ ] Power Bank com células reaproveitadas
+* [ ] Retro Gaming com Batocera
+* [ ] Sistema LoRa
+* [ ] Mini estação solar
+* [ ] Novos experimentos
+
+> **Este roadmap não é definitivo. Novas ideias podem aparecer a qualquer momento.**
 
 ---
 
-# 🏚️ Acesse o Porão
+# 📚 Aprendizados
 
-🚧 **Site:**
-*Em constante evolução.*
+Cada projeto publicado aqui representa uma oportunidade de aprender alguma coisa nova.
 
-> **Se você chegou até aqui, provavelmente também gosta de desmontar coisas para descobrir como funcionam.**
+Entre os conhecimentos explorados no Porão estão:
 
-## Seja bem-vindo ao Porão do DEV.
+* Desenvolvimento Web;
+* HTML e CSS;
+* Git e GitHub;
+* GitHub Pages;
+* Organização de projetos;
+* Documentação técnica;
+* Reaproveitamento de hardware;
+* Emulação;
+* Automação;
+* Eletrônica;
+* Solução de problemas.
 
-**Aqui, tecnologia também é colocar a mão na massa.** 🔧💻⚡
+O objetivo não é apenas mostrar o resultado.
+
+**É registrar o caminho até ele.**
+
+---
+
+# 👨‍💻 Sobre o desenvolvedor
+
+Sou **Matheus Félix Barbosa**, formado em **Análise e Desenvolvimento de Sistemas** e atualmente atuo como **Analista de Dados**.
+
+Minha experiência profissional envolve principalmente **Power BI, DAX, Excel, análise de dados, indicadores e automação de processos**.
+
+Fora do ambiente profissional, continuo explorando outras áreas da tecnologia através de projetos próprios envolvendo:
+
+**Programação • Python • Desenvolvimento Web • Automação • Hardware • Eletrônica • DIY**
+
+O Porão do DEV nasceu justamente desse interesse em aprender e experimentar.
+
+---
+
+# 🔗 Links
+
+🌐 **Site:**
+https://matheusbarb19.github.io/PoraoDoDEV/
+
+💻 **Repositório:**
+https://github.com/MatheusBarb19/PoraoDoDEV
+
+👨‍💼 **LinkedIn:**
+https://www.linkedin.com/in/matheus-felix-barbosa-658422227/
+
+---
+
+# 🏚️ Bem-vindo ao Porão do DEV
+
+Se você chegou até aqui, provavelmente também gosta de desmontar coisas para descobrir como funcionam.
+
+Então talvez você se sinta em casa.
+
+> **Tecnologia não precisa começar com equipamentos caros.**
+>
+> **Às vezes começa com uma ideia, algumas ferramentas e vontade de tentar.**
+
+### 🔧 Desmontar. Experimentar. Construir. Errar. Aprender.
+
+**Esse é o Porão do DEV.**
+
+---
+
+<p align="center">
+  <strong>🏚️ Tecnologia • Sustentabilidade • Criatividade</strong>
+</p>
